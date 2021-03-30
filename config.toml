@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://rfiilho.netlify.app/"
 languageCode = "pt-br"
 title = "Renato Filho"
 theme = "Anatole"
