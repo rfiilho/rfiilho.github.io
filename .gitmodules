@@ -10,3 +10,6 @@
 [submodule "static/admin"]
 	path = static/admin
 	url = https://github.com/woliveiras/netlify-cms-base.git
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
